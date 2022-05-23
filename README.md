@@ -1,5 +1,4 @@
 # CodeForce_Solution
-Solution of #codeforce problem in Java 
+Solution of #codeforce problems in Java langauage.
 
 I have uploaded the solution of problems available on codeforce platform.
-The language of solution is java.
